@@ -129,7 +129,7 @@ int main()
     cipher.close();
     }
 
-    string cipherText(charVector.begin(), charVector.end()); //turn the vector of characters in a string 
+    string cipherText("VSRQJHEREVTXDUHSDQWU"); //turn the vector of characters in a string 
    
     int validWord = 0; 
     char c1, c2; 
